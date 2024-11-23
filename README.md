@@ -12,5 +12,6 @@ This will be my walk through of the book [Web Scraping with Python](https://gith
  4) mamba install conda-forge::beautifulsoup4
  5) mamba install conda-forge::lxml
  6) mamba install conda-forge::scrapy
+ 7) mamba install conda-forge::selenium
 
  
